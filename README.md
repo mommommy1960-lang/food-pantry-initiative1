@@ -35,3 +35,18 @@ The intent is to complement—not replace—existing staff judgment, policy, sys
 ## Repository contents
 
 The website and slideshow HTML files are included in this repository. GitHub Pages must be enabled and its deployment verified before we describe either page as a published website. Private Bruce-to-Bruce handoff notes, personal details, account identifiers, and infrastructure secrets are intentionally excluded.
+
+
+## View the project
+
+- **Website source:** [index.html](index.html)
+- **Leadership slideshow (open in a browser after GitHub Pages is enabled):** [slideshow.html](slideshow.html)
+- **Presentation slides and speaker notes:** [SLIDES_AND_SCRIPTS.md](SLIDES_AND_SCRIPTS.md)
+
+When GitHub Pages is enabled for the `main` branch from the repository root, the public website will be:
+https://mommommy1960-lang.github.io/food-pantry-initiative1/
+
+The slideshow will be available at:
+https://mommommy1960-lang.github.io/food-pantry-initiative1/slideshow.html
+
+GitHub Pages is not yet confirmed enabled; these published URLs should be treated as pending until the Pages build succeeds.

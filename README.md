@@ -1,16 +1,19 @@
-# Food Pantry Initiative One — Civic Continuum & Maya Node
+# Food Pantry Initiative — Civic Continuum & Maya Node
 
 **Help shape what comes next for community food support.**  
 Prepared for White Center Food Bank leadership • October 30, 2026
 
 This is an invitation to White Center Food Bank to become an early thought partner in exploring a people-first approach to clearer handoffs and accountable follow-through. The larger possibility is an approach that, if it proves useful through careful testing, could be adapted by other community-serving organizations. The first step is modest, no-cost, and entirely fictional-data based.
 
-## Open the project
+## View the project
 
-- **[View the public website source (index.html)](index.html)** — the main project overview page.
-- **[View the browser slideshow (slideshow.html)](slideshow.html)** — the presentation as a standalone HTML slideshow.
-- **[View the presentation and speaker scripts (SLIDES_AND_SCRIPTS.md)](SLIDES_AND_SCRIPTS.md)** — slide content and presenter notes.
-- [Leadership proposal and draft cover letter](PROPOSAL_PACKET.md)
+- **[Open the project website](index.html)** — the visitor-facing overview.
+- **[Open the browser slideshow](slideshow.html)** — the eight-slide presentation.
+- **[Read the proposal packet](PROPOSAL_PACKET.md)** — leadership proposal and draft cover letter.
+- **[Read the slide text and presenter scripts](SLIDES_AND_SCRIPTS.md)** — the presentation content in Markdown.
+
+## Project documents
+
 - [All three fictional workflow scenarios](THREE_WORKFLOW_SCENARIOS.md)
 - [Current operations context and potential organizational value](CURRENT_OPERATIONS_AND_POTENTIAL_VALUE.md)
 - [Development roadmap and readiness gates](DEVELOPMENT_ROADMAP.md)
@@ -32,21 +35,4 @@ The intent is to complement—not replace—existing staff judgment, policy, sys
 - No assumptions that WCFB has deficiencies; staff define whether a problem exists.
 - No external email or presentation is authorized by these review documents alone.
 
-## Repository contents
-
-The website and slideshow HTML files are included in this repository. GitHub Pages must be enabled and its deployment verified before we describe either page as a published website. Private Bruce-to-Bruce handoff notes, personal details, account identifiers, and infrastructure secrets are intentionally excluded.
-
-
-## View the project
-
-- **Website source:** [index.html](index.html)
-- **Leadership slideshow (open in a browser after GitHub Pages is enabled):** [slideshow.html](slideshow.html)
-- **Presentation slides and speaker notes:** [SLIDES_AND_SCRIPTS.md](SLIDES_AND_SCRIPTS.md)
-
-When GitHub Pages is enabled for the `main` branch from the repository root, the public website will be:
-https://mommommy1960-lang.github.io/food-pantry-initiative1/
-
-The slideshow will be available at:
-https://mommommy1960-lang.github.io/food-pantry-initiative1/slideshow.html
-
-GitHub Pages is not yet confirmed enabled; these published URLs should be treated as pending until the Pages build succeeds.
+Private Bruce-to-Bruce handoff notes, personal details, account identifiers, and infrastructure secrets are intentionally excluded.
